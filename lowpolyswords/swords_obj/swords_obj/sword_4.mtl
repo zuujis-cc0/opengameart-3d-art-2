@@ -1,0 +1,16 @@
+# Made in Blockbench 5.2.2
+newmtl m_05944273-3805-6e1f-9250-9845e591f2a3
+map_Kd handle_texture.png
+newmtl m_a7f78a6d-55e0-a760-21c9-4aad4e5446b3
+map_Kd pyratexture.png
+newmtl m_b50865f1-a00c-9a83-d7e4-c8e890cb5a0f
+map_Kd smaller_pyratexture.png
+newmtl m_211e640a-3551-a1cb-7bb1-c768df209c4c
+map_Kd guard_texture.png
+newmtl m_9f4ddd4e-f2d8-6b18-9063-b8fb4ee27c0a
+map_Kd sword_texture.png
+newmtl m_f8bd8f65-a6eb-bcad-7027-a55d7e674c4f
+map_Kd sword_texture_inner.png
+newmtl m_2830bddd-163f-dff7-65f8-2c263a830a7f
+map_Kd texturegem.png
+newmtl none

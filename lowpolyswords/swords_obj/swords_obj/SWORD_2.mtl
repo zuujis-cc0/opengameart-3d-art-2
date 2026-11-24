@@ -1,0 +1,12 @@
+# Made in Blockbench 5.2.2
+newmtl m_03c08dc6-afdd-b2ea-008c-29706cd8ec8e
+map_Kd hilt.png
+newmtl m_b5ce509b-4089-4f9e-7fce-62ab40f52adc
+map_Kd gem.png
+newmtl m_eff91930-75b2-4e82-a806-5dc07f5d740e
+map_Kd texture.png
+newmtl m_ae3d9e9b-c752-569d-d014-8d1f8c5c347a
+map_Kd sword_left.png
+newmtl m_dee08832-598e-cac4-040b-f445b432b11f
+map_Kd sword_r.png
+newmtl none
