@@ -18,15 +18,6 @@ Every file is listed in [MANIFEST.tsv](MANIFEST.tsv) with its size and SHA-256. 
 | <a href="lowpoly-girl"><img src="previews/lowpoly-girl.jpg" width="160" alt="Lowpoly girl"></a><br><b><a href="lowpoly-girl">Lowpoly girl</a></b><br><sub>by konserwa · <a href="https://opengameart.org/content/lowpoly-girl">source</a></sub> | <a href="lowpoly-shoe"><img src="previews/lowpoly-shoe.png" width="160" alt="Lowpoly Shoe"></a><br><b><a href="lowpoly-shoe">Lowpoly Shoe</a></b><br><sub>by Lyricsz · <a href="https://opengameart.org/content/lowpoly-shoe">source</a></sub> | <a href="lowpolyswords"><img src="previews/lowpolyswords.png" width="160" alt="low_poly_swords"></a><br><b><a href="lowpolyswords">low_poly_swords</a></b><br><sub>by Q2DENJINDREW · <a href="https://opengameart.org/content/lowpolyswords">source</a></sub> | <a href="ludo-0"><img src="previews/ludo-0.png" width="160" alt="Ludo"></a><br><b><a href="ludo-0">Ludo</a></b><br><sub>by Lyricsz · <a href="https://opengameart.org/content/ludo-0">source</a></sub> |
 | <a href="medieval-castlemanor"><img src="previews/medieval-castlemanor.png" width="160" alt="medieval castle/manor"></a><br><b><a href="medieval-castlemanor">medieval castle/manor</a></b><br><sub>by unForastero · <a href="https://opengameart.org/content/medieval-castlemanor">source</a></sub> | <a href="medieval-dungeon-interior"><img src="previews/medieval-dungeon-interior.png" width="160" alt="medieval dungeon interior"></a><br><b><a href="medieval-dungeon-interior">medieval dungeon interior</a></b><br><sub>by cheerful sprite · <a href="https://opengameart.org/content/medieval-dungeon-interior">source</a></sub> | <a href="mini-rocket"><img src="previews/mini-rocket.png" width="160" alt="Mini Rocket"></a><br><b><a href="mini-rocket">Mini Rocket</a></b><br><sub>by David W CG · <a href="https://opengameart.org/content/mini-rocket">source</a></sub> |  |
 
-### Not copied here
-
-These files are over GitHub's 100 MB limit; get them from OpenGameArt:
-
-- `low-poly-arena-assets/base_maulgrounds_0/Base_MaulGrounds.fbx` (126.1 MB), from [Low Poly Arena Assets](https://opengameart.org/content/low-poly-arena-assets)
-- `low-poly-arena-assets/base_tikki_0/Base_Tikki.fbx` (180.4 MB), from [Low Poly Arena Assets](https://opengameart.org/content/low-poly-arena-assets)
-- `low-poly-arena-assets/recon_variant_01_0/Recon_Variant_01.fbx` (139.5 MB), from [Low Poly Arena Assets](https://opengameart.org/content/low-poly-arena-assets)
-- `low-poly-arena-assets/recon_variant_02_0/Recon_Variant_02.fbx` (103.5 MB), from [Low Poly Arena Assets](https://opengameart.org/content/low-poly-arena-assets)
-
 ---
 
 Kept up to date by this repository's own [update workflow](.github/workflows/update.yml), with code and plan from [cc0-mirror](https://github.com/zuujis-cc0/cc0-mirror). Something wrong? [Open an issue there](https://github.com/zuujis-cc0/cc0-mirror/issues/new) or use the [private report form](https://games.zuujis.com/report).
